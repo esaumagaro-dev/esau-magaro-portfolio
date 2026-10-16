@@ -1,0 +1,15 @@
+{
+  "name": "esau-magaro-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static portfolio for Esau Nehemia Magaro",
+  "type": "module",
+  "packageManager": "npm@10.9.2",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "preview": "node scripts/preview.mjs"
+  }
+}
